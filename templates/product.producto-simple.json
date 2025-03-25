@@ -35,12 +35,6 @@
             "show_inventory_quantity": false
           }
         },
-        "custom_liquid_KzGH4f": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": ""
-          }
-        },
         "quantity_selector_PcE6wJ": {
           "type": "quantity_selector",
           "settings": {}
@@ -70,7 +64,7 @@
           "settings": {
             "heading": "Materials and care",
             "icon": "leaf",
-            "content": "",
+            "content": "<p>fsdfsd{{ product.metafields.custom.wearing_size.value }}</p>",
             "page": "materials-and-care"
           }
         },
@@ -99,7 +93,6 @@
         "title",
         "price",
         "inventory_epyLVM",
-        "custom_liquid_KzGH4f",
         "quantity_selector_PcE6wJ",
         "buy_buttons_YgMXER",
         "description",
