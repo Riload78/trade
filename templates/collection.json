@@ -8,10 +8,6 @@
  * ------------------------------------------------------------
  */
 {
-  "order": [
-    "banner",
-    "product-grid"
-  ],
   "sections": {
     "banner": {
       "settings": {
@@ -40,6 +36,18 @@
         "show_vendor": false
       },
       "type": "main-collection-product-grid"
+    },
+    "gp_shopify_original_section_560472440879186725": {
+      "type": "gp-section-560472440879186725",
+      "settings": {
+        "section_preload": "true",
+        "checksum": "69de4e4f97535eb1d9a49c1fface18b64bbaf4af79b6d827d2051abcc7b309ba_1_1"
+      }
     }
-  }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "gp_shopify_original_section_560472440879186725"
+  ]
 }
