@@ -12,5 +12,16 @@
   "context": {
     "market": "eeuu"
   },
-  "sections": {}
+  "sections": {
+    "announcement-bar": {
+      "settings": {},
+      "blocks": {
+        "announcement-bar-0": {
+          "settings": {
+            "text": "Bienvenido a nuestra tienda online EEUU"
+          }
+        }
+      }
+    }
+  }
 }
