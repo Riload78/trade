@@ -12,5 +12,15 @@
   "context": {
     "market": "eeuu"
   },
-  "sections": {}
+  "sections": {
+    "multicolumn": {
+      "settings": {},
+      "blocks": {
+        "column6": {
+          "disabled": true,
+          "settings": {}
+        }
+      }
+    }
+  }
 }
