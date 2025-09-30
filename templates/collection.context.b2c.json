@@ -10,13 +10,7 @@
 {
   "parent": "collection.json",
   "context": {
-    "market": "b2b"
+    "market": "b2c"
   },
-  "sections": {
-    "gp_shopify_original_section_560472440879186725": {
-      "disabled": true,
-      "settings": {},
-      "blocks": {}
-    }
-  }
+  "sections": {}
 }
