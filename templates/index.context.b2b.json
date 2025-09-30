@@ -15,8 +15,8 @@
   "sections": {
     "image_banner": {
       "settings": {
-        "image_2": null,
-        "image": "shopify://shop_images/apple-professional.webp"
+        "image": "shopify://shop_images/apple-professional.webp",
+        "image_height": "medium"
       },
       "blocks": {}
     }
