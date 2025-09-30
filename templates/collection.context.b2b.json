@@ -12,5 +12,12 @@
   "context": {
     "market": "b2b"
   },
-  "sections": {}
+  "sections": {
+    "gp_shopify_original_section_560472440879186725": {
+      "settings": {
+        "checksum": ""
+      },
+      "blocks": {}
+    }
+  }
 }
