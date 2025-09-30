@@ -13,16 +13,16 @@
     "market": "b2b"
   },
   "sections": {
-    "header": {
+    "announcement-bar": {
       "settings": {
-        "menu": "menu-b2b",
-        "color_scheme": "scheme-3"
+        "color_scheme": "scheme-4"
       },
       "blocks": {}
     },
-    "announcement-bar": {
+    "header": {
       "settings": {
-        "color_scheme": "scheme-e83f3539-3e95-45e0-a38f-ed5d0a108962"
+        "menu": "menu-b2b",
+        "color_scheme": "scheme-4"
       },
       "blocks": {}
     }
