@@ -19,6 +19,12 @@
         "image_height": "medium"
       },
       "blocks": {}
+    },
+    "featured_collection1": {
+      "settings": {
+        "title": "Los más vendidos B2B"
+      },
+      "blocks": {}
     }
   }
 }
