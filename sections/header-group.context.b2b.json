@@ -12,5 +12,19 @@
   "context": {
     "market": "b2b"
   },
-  "sections": {}
+  "sections": {
+    "header": {
+      "settings": {
+        "menu": "menu-b2b",
+        "color_scheme": "scheme-3"
+      },
+      "blocks": {}
+    },
+    "announcement-bar": {
+      "settings": {
+        "color_scheme": "scheme-e83f3539-3e95-45e0-a38f-ed5d0a108962"
+      },
+      "blocks": {}
+    }
+  }
 }
