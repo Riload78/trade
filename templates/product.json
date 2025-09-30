@@ -68,12 +68,6 @@
         "easify_product_attachments_product_attachments_WzLUPM": {
           "type": "shopify://apps/easify-product-attachments/blocks/product-attachments/cc218f93-dff3-4a2d-af6e-04e2bc66e693",
           "settings": {}
-        },
-        "swishlist_simple_wishlist_wishlist_product_button_jqwbgy": {
-          "type": "shopify://apps/swishlist-simple-wishlist/blocks/wishlist_product_button/bfcb80f2-f00d-42ae-909a-9f00c726327b",
-          "settings": {
-            "custom_liquid": ""
-          }
         }
       },
       "block_order": [
@@ -85,8 +79,7 @@
         "collapsible-row-0",
         "collapsible-row-2",
         "share",
-        "easify_product_attachments_product_attachments_WzLUPM",
-        "swishlist_simple_wishlist_wishlist_product_button_jqwbgy"
+        "easify_product_attachments_product_attachments_WzLUPM"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -95,7 +88,7 @@
         "constrain_to_viewport": false,
         "media_fit": "cover",
         "gallery_layout": "thumbnail_slider",
-        "media_position": "right",
+        "media_position": "left",
         "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
