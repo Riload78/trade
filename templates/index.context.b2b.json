@@ -15,7 +15,8 @@
   "sections": {
     "image_banner": {
       "settings": {
-        "image_2": "shopify://shop_images/botella-de-vino-hacienda-monasterio-2022-con-fondo-de-campo-de-f-tbol.png"
+        "image_2": null,
+        "image": "shopify://shop_images/apple-professional.webp"
       },
       "blocks": {}
     }
