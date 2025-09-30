@@ -12,5 +12,11 @@
   "context": {
     "market": "b2c"
   },
-  "sections": {}
+  "sections": {
+    "gp_shopify_original_section_560472440879186725": {
+      "disabled": true,
+      "settings": {},
+      "blocks": {}
+    }
+  }
 }
