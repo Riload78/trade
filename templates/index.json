@@ -159,7 +159,7 @@
     "featured_collection1": {
       "type": "featured-collection",
       "settings": {
-        "title": "Los más vendidos B2B",
+        "title": "Los más vendidos",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
