@@ -11,6 +11,9 @@
   "markets": {
     "b2b": {
       "parent": "@default"
+    },
+    "b2c": {
+      "parent": "@default"
     }
   }
 }
