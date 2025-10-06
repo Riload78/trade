@@ -17,7 +17,13 @@
       "settings": {
         "color_scheme": "scheme-5"
       },
-      "blocks": {}
+      "blocks": {
+        "announcement-bar-0": {
+          "settings": {
+            "text": "Bienvenido a nuestra tienda online B2B"
+          }
+        }
+      }
     },
     "header": {
       "settings": {
