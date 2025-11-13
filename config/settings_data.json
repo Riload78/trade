@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/next02_2b645a72-a0dd-4c87-a30c-832c25f5336f.png",
+    "logo": "shopify://shop_images/logoweb-aitana-60_png.webp",
     "logo_width": 70,
     "type_header_font": "dm_sans_n5",
     "heading_scale": 105,
@@ -168,11 +168,6 @@
           "button_vertical_position": "lowest",
           "greeting_message": ""
         }
-      },
-      "pagefly-page-builder": {
-        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
-        "disabled": false,
-        "settings": {}
       },
       "10274264662263595587": {
         "type": "shopify://apps/wishlist-plus/blocks/wishlist-collections-embed/80c3b1fc-3a8f-407e-8367-ffdeebb8b612",
