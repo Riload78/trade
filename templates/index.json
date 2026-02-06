@@ -464,6 +464,76 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "featured_product_9cacmg": {
+      "type": "featured-product",
+      "blocks": {
+        "text_gDF3Da": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_W9Xd8X": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_nqPx83": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_TkVhmc": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_NwqXXm": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_YfNeBg": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_i7n6hG": {
+          "type": "share",
+          "settings": {
+            "share_label": "Compartir"
+          }
+        }
+      },
+      "block_order": [
+        "text_gDF3Da",
+        "title_W9Xd8X",
+        "price_nqPx83",
+        "variant_picker_TkVhmc",
+        "quantity_selector_NwqXXm",
+        "buy_buttons_YfNeBg",
+        "share_i7n6hG"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "nike-mercurial-zoom-superfly-10-pro-fg",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -477,6 +547,7 @@
     "multicolumn2",
     "video_AHbxUy",
     "collage_fnRwTm",
-    "featured_blog_8WQeTa"
+    "featured_blog_8WQeTa",
+    "featured_product_9cacmg"
   ]
 }
