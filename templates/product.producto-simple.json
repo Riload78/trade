@@ -42,6 +42,13 @@
             "swatch_shape": "square"
           }
         },
+        "text_LdiBeN": {
+          "type": "text",
+          "settings": {
+            "text": "¿Cual es mi talla?",
+            "text_style": "body"
+          }
+        },
         "quantity_selector_PcE6wJ": {
           "type": "quantity_selector",
           "settings": {}
@@ -101,6 +108,7 @@
         "price",
         "inventory_epyLVM",
         "variant_picker_faTTUX",
+        "text_LdiBeN",
         "quantity_selector_PcE6wJ",
         "buy_buttons_YgMXER",
         "description",
