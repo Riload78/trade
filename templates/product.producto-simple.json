@@ -64,6 +64,15 @@
           "type": "description",
           "settings": {}
         },
+        "collapsible_tab_abTdYP": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Descripción del producto",
+            "icon": "none",
+            "content": "{{ product.description }}",
+            "page": ""
+          }
+        },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
@@ -112,6 +121,7 @@
         "quantity_selector_PcE6wJ",
         "buy_buttons_YgMXER",
         "description",
+        "collapsible_tab_abTdYP",
         "collapsible-row-1",
         "collapsible-row-0",
         "collapsible-row-2",
