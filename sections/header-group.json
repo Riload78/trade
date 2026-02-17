@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_MyY7QK": {
+          "type": "announcement",
+          "settings": {
+            "text": "Te damos la bienvenida a nuestra tienda",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -23,6 +30,7 @@
         }
       },
       "block_order": [
+        "announcement_MyY7QK",
         "announcement-bar-0"
       ],
       "settings": {
