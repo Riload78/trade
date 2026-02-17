@@ -60,10 +60,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {}
-        },
         "collapsible_tab_abTdYP": {
           "type": "collapsible_tab",
           "settings": {
@@ -76,10 +72,10 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Product features",
-            "icon": "star",
-            "content": "",
-            "page": "product-features"
+            "heading": "Composición y cuidados",
+            "icon": "none",
+            "content": "<p>{{ product.metafields.shopify.fabric | metafield_text: field: 'label' }}</p><p>{{ product.metafields.shopify[\"clothing-features\"] | metafield_text: field: 'label' }}</p>",
+            "page": ""
           }
         },
         "collapsible-row-0": {
@@ -87,7 +83,7 @@
           "settings": {
             "heading": "Materials and care",
             "icon": "leaf",
-            "content": "<p>fsdfsd{{ product.metafields.custom.wearing_size.value }}</p>",
+            "content": "<p>{{ product.metafields.custom.wearing_size.value }}</p>",
             "page": "materials-and-care"
           }
         },
@@ -120,7 +116,6 @@
         "text_LdiBeN",
         "quantity_selector_PcE6wJ",
         "buy_buttons_YgMXER",
-        "description",
         "collapsible_tab_abTdYP",
         "collapsible-row-1",
         "collapsible-row-0",
