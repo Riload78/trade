@@ -81,9 +81,9 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials and care",
-            "icon": "leaf",
-            "content": "<p>{{ product.metafields.custom.wearing_size.value }}</p>",
+            "heading": "Talla y ajustes",
+            "icon": "none",
+            "content": "<p>Corte Regular<br/>Esta prenda tiene un corte regular, por lo que te recomendamos elegir tu talla habitual.</p>",
             "page": "materials-and-care"
           }
         },
