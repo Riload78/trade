@@ -87,15 +87,6 @@
             "page": "materials-and-care"
           }
         },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Merchandising tips",
-            "icon": "carrot",
-            "content": "",
-            "page": "merchandising-tips"
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -119,7 +110,6 @@
         "collapsible_tab_abTdYP",
         "collapsible-row-1",
         "collapsible-row-0",
-        "collapsible-row-2",
         "share",
         "easify_product_attachments_product_attachments_WzLUPM"
       ],
