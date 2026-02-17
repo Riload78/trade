@@ -216,6 +216,11 @@
         "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
         "settings": {}
+      },
+      "421424240597080315": {
+        "type": "shopify://apps/teeinblue-product-personalizer/blocks/product-personalizer/67212f31-32b0-450c-97dd-7e182a5fac7b",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
