@@ -31,6 +31,13 @@
             "swatch_shape": "square"
           }
         },
+        "buy_buttons_QzdXn3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
         "inventory_epyLVM": {
           "type": "inventory",
           "settings": {
@@ -82,6 +89,7 @@
         "description",
         "price",
         "variant_picker_jHVzEd",
+        "buy_buttons_QzdXn3",
         "inventory_epyLVM",
         "collapsible-row-1",
         "collapsible-row-0",
