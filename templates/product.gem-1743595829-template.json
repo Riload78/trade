@@ -16,9 +16,20 @@
           "type": "title",
           "settings": {}
         },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
         "price": {
           "type": "price",
           "settings": {}
+        },
+        "variant_picker_jHVzEd": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown",
+            "swatch_shape": "square"
+          }
         },
         "inventory_epyLVM": {
           "type": "inventory",
@@ -27,10 +38,6 @@
             "inventory_threshold": 49,
             "show_inventory_quantity": false
           }
-        },
-        "description": {
-          "type": "description",
-          "settings": {}
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
@@ -66,15 +73,16 @@
           }
         },
         "easify_product_attachments_product_attachments_WzLUPM": {
-          "type": "shopify://apps/easify-product-attachments/blocks/product-attachments/cc218f93-dff3-4a2d-af6e-04e2bc66e693",
+          "type": "shopify://apps/easify-attachments/blocks/product-attachments/cc218f93-dff3-4a2d-af6e-04e2bc66e693",
           "settings": {}
         }
       },
       "block_order": [
         "title",
-        "price",
-        "inventory_epyLVM",
         "description",
+        "price",
+        "variant_picker_jHVzEd",
+        "inventory_epyLVM",
         "collapsible-row-1",
         "collapsible-row-0",
         "collapsible-row-2",
